@@ -100,12 +100,6 @@ Model Comparison
      ↓
 Conclusion
 
-On Tue, 6 Oct, 2026, 2:00 pm Sushmita Singh, <sushmitasingh008aug@gmail.com> wrote:
-https://github.com/sushmitasingh008aug-lgtm/Credit-Card-Fraud-Detection
-
-
-https://github.com/sushmitasingh008aug-lgtm/Customer-Churn-Prediction
-
 
 
 https://github.com/Apurva-Banerjee/SIH-2026
