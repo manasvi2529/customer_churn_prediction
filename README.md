@@ -1,5 +1,5 @@
-Customer Churn Prediction
-📌 Project Overview
+#Customer Churn Prediction
+#📌 Project Overview
 Customer Churn Prediction is a Machine Learning classification project that predicts whether a customer is likely to stop using a company's service.
 
 This project uses a telecom customer dataset and applies Machine Learning techniques to identify customers who are likely to churn.
